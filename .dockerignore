@@ -1,0 +1,13 @@
+assets/
+GUI/
+Tests/
+theme/
+*.bat
+*.md
+.git/
+.gitignore
+.vscode/
+.idea/
+.dockerignore
+LICENSE
+Dockerfile
